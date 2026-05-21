@@ -82,7 +82,7 @@ print("Done by Venkata Mohan N")
 
 <img width="1280" height="658" alt="image" src="https://github.com/user-attachments/assets/a6107bb7-d968-49d8-8fbd-d2b29ad35cca" />
 <img width="1330" height="654" alt="image" src="https://github.com/user-attachments/assets/a1c3c5ec-9c30-4864-85a9-87de6ed679aa" />
-<img width="1280" height="658" alt="image" src="https://github.com/user-attachments/assets/1dfa98cb-b277-4f4b-9bce-47d70860744c" />
+
 <img width="1014" height="914" alt="image" src="https://github.com/user-attachments/assets/06b68bda-8790-4fe1-bb80-3c1a3c0498ae" />
 <img width="1092" height="410" alt="image" src="https://github.com/user-attachments/assets/73f98932-a4f7-466b-9864-8bf7fa4ac04d" />
 
